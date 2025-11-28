@@ -3,24 +3,24 @@
 Este projeto é uma API simples para cadastro de produtos.  
 Foi desenvolvida para estudo de rotas, CRUD e modelos com FastAPI e Pydantic.
 
-* Funcionalidades
+* Funcionalidades:
 - Criar produto
 - Listar todos os produtos
 - Ver um produto específico
 - Deletar produto
 - Armazenamento em memória (lista)
 
-* Tecnologias
+* Tecnologias:
 - Python
 - FastAPI
 - Uvicorn
 - Pydantic
 
-* Estrutura do projeto
+* Estrutura do projeto:
 main.py  
 models.py
 
-* Como executar
+* Como executar:
 1. Instale as dependências:
    pip install fastapi uvicorn
 
@@ -31,5 +31,5 @@ models.py
    API: http://127.0.0.1:8000  
    Documentação: http://127.0.0.1:8000/docs
 
-* Objetivo do projeto
+* Objetivo do projeto:
 Treinar desenvolvimento de APIs com Python usando FastAPI, criando um CRUD básico para estudo.
